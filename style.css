@@ -1,1 +1,25 @@
+body {
 
+	font-family: Arial;
+
+
+
+}
+ 
+span {
+	background-color: yellow
+}
+
+
+a {
+color: red
+
+}
+.vegi {
+	color: green;
+}
+
+.non-vegi {
+	color: orange; 
+
+}
